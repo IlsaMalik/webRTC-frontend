@@ -1,0 +1,8 @@
+{
+  "name": "session-poc",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ]
+}
